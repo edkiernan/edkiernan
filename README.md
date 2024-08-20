@@ -1,3 +1,2 @@
-📫 You can reach me on my socials!
-    -twitter: @eddiekiernanIII
-    -linkedin: Edward Kiernan III
+📫 Reach me on my socials!
+- linkedin: Edward Kiernan III
